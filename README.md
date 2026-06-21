@@ -24,3 +24,7 @@ An AI-powered Resume Screening System built using Python, NLP, Machine Learning 
 ## Developed By
 
 Piyush Kumar
+
+Live demo : https://ai-resume-analyzer-system.streamlit.app
+
+
